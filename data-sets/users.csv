@@ -1,0 +1,600 @@
+user_id,registration_date,city,device_type,total_sessions,user_segment
+U0001,2025-03-23,Mumbai,Mobile,9,Power User
+U0002,2025-02-05,Bangalore,Mobile,9,Power User
+U0003,2025-04-05,Mumbai,Desktop,3,Engaged
+U0004,2025-04-25,Chennai,Mobile,5,Engaged
+U0005,2025-02-24,Mumbai,Mobile,8,Engaged
+U0006,2025-01-28,Bangalore,Mobile,6,Engaged
+U0007,2025-01-04,Chennai,Mobile,3,Engaged
+U0008,2025-03-25,Chennai,Mobile,6,Engaged
+U0009,2025-02-27,Chennai,Mobile,6,Engaged
+U0010,2025-04-22,Mumbai,Desktop,16,Power User
+U0011,2025-01-21,Hyderabad,Mobile,9,Power User
+U0012,2025-01-20,Bangalore,Tablet,7,Engaged
+U0013,2025-02-13,Mumbai,Mobile,8,Engaged
+U0014,2025-01-13,Delhi,Desktop,6,Engaged
+U0015,2025-03-19,Delhi,Desktop,11,Power User
+U0016,2025-04-04,Hyderabad,Mobile,6,Engaged
+U0017,2025-04-29,Hyderabad,Mobile,8,Engaged
+U0018,2025-02-07,Chennai,Desktop,12,Power User
+U0019,2025-02-16,Chennai,Mobile,2,New
+U0020,2025-01-09,Mumbai,Desktop,10,Power User
+U0021,2025-04-09,Delhi,Tablet,7,Engaged
+U0022,2025-04-20,Bangalore,Desktop,6,Engaged
+U0023,2025-02-18,Delhi,Mobile,6,Engaged
+U0024,2025-04-17,Delhi,Mobile,5,Engaged
+U0025,2025-02-15,Bangalore,Desktop,6,Engaged
+U0026,2025-03-31,Mumbai,Desktop,11,Power User
+U0027,2025-01-22,Chennai,Desktop,10,Power User
+U0028,2025-01-21,Hyderabad,Mobile,5,Engaged
+U0029,2025-04-29,Chennai,Mobile,5,Engaged
+U0030,2025-02-11,Mumbai,Mobile,12,Power User
+U0031,2025-01-05,Delhi,Mobile,5,Engaged
+U0032,2025-01-09,Bangalore,Desktop,5,Engaged
+U0033,2025-03-14,Delhi,Mobile,10,Power User
+U0034,2025-03-05,Hyderabad,Desktop,7,Engaged
+U0035,2025-03-24,Hyderabad,Mobile,6,Engaged
+U0036,2025-01-18,Bangalore,Desktop,12,Power User
+U0037,2025-03-10,Delhi,Desktop,6,Engaged
+U0038,2025-02-24,Chennai,Mobile,5,Engaged
+U0039,2025-01-29,Bangalore,Mobile,8,Engaged
+U0040,2025-01-12,Mumbai,Desktop,5,Engaged
+U0041,2025-01-20,Bangalore,Desktop,7,Engaged
+U0042,2025-02-24,Chennai,Mobile,11,Power User
+U0043,2025-02-18,Chennai,Tablet,8,Engaged
+U0044,2025-03-09,Delhi,Tablet,5,Engaged
+U0045,2025-04-21,Mumbai,Desktop,7,Engaged
+U0046,2025-01-15,Chennai,Desktop,10,Power User
+U0047,2025-04-09,Delhi,Mobile,7,Engaged
+U0048,2025-02-25,Bangalore,Mobile,3,Engaged
+U0049,2025-04-03,Delhi,Tablet,5,Engaged
+U0050,2025-04-08,Bangalore,Mobile,8,Engaged
+U0051,2025-01-14,Delhi,Desktop,3,Engaged
+U0052,2025-03-06,Chennai,Mobile,9,Power User
+U0053,2025-02-17,Bangalore,Mobile,8,Engaged
+U0054,2025-04-10,Chennai,Desktop,5,Engaged
+U0055,2025-03-18,Delhi,Mobile,4,Engaged
+U0056,2025-01-15,Delhi,Desktop,12,Power User
+U0057,2025-04-17,Delhi,Mobile,7,Engaged
+U0058,2025-01-31,Chennai,Desktop,4,Engaged
+U0059,2025-01-11,Hyderabad,Desktop,5,Engaged
+U0060,2025-04-08,Chennai,Desktop,5,Engaged
+U0061,2025-01-17,Hyderabad,Desktop,10,Power User
+U0062,2025-01-22,Delhi,Mobile,6,Engaged
+U0063,2025-03-19,Hyderabad,Tablet,6,Engaged
+U0064,2025-04-29,Chennai,Desktop,4,Engaged
+U0065,2025-03-30,Bangalore,Desktop,6,Engaged
+U0066,2025-02-21,Delhi,Mobile,7,Engaged
+U0067,2025-03-08,Hyderabad,Mobile,6,Engaged
+U0068,2025-01-29,Mumbai,Mobile,3,Engaged
+U0069,2025-03-17,Chennai,Mobile,12,Power User
+U0070,2025-01-29,Mumbai,Mobile,10,Power User
+U0071,2025-03-22,Mumbai,Mobile,6,Engaged
+U0072,2025-04-26,Mumbai,Desktop,7,Engaged
+U0073,2025-01-10,Chennai,Mobile,2,New
+U0074,2025-03-27,Hyderabad,Mobile,7,Engaged
+U0075,2025-01-17,Chennai,Mobile,8,Engaged
+U0076,2025-02-01,Hyderabad,Desktop,5,Engaged
+U0077,2025-01-25,Mumbai,Mobile,13,Power User
+U0078,2025-02-25,Delhi,Mobile,2,New
+U0079,2025-03-01,Mumbai,Desktop,4,Engaged
+U0080,2025-03-24,Mumbai,Mobile,5,Engaged
+U0081,2025-04-04,Delhi,Desktop,12,Power User
+U0082,2025-01-14,Bangalore,Mobile,9,Power User
+U0083,2025-03-10,Hyderabad,Mobile,6,Engaged
+U0084,2025-01-24,Delhi,Mobile,6,Engaged
+U0085,2025-04-22,Mumbai,Mobile,5,Engaged
+U0086,2025-04-21,Chennai,Mobile,7,Engaged
+U0087,2025-03-25,Chennai,Desktop,3,Engaged
+U0088,2025-01-12,Bangalore,Mobile,8,Engaged
+U0089,2025-03-04,Hyderabad,Mobile,13,Power User
+U0090,2025-02-21,Mumbai,Mobile,5,Engaged
+U0091,2025-01-01,Hyderabad,Mobile,11,Power User
+U0092,2025-04-11,Hyderabad,Mobile,6,Engaged
+U0093,2025-03-31,Chennai,Desktop,9,Power User
+U0094,2025-03-04,Bangalore,Mobile,5,Engaged
+U0095,2025-01-28,Mumbai,Mobile,6,Engaged
+U0096,2025-03-11,Mumbai,Desktop,7,Engaged
+U0097,2025-01-08,Mumbai,Mobile,5,Engaged
+U0098,2025-03-06,Chennai,Mobile,9,Power User
+U0099,2025-03-07,Mumbai,Desktop,1,New
+U0100,2025-01-09,Chennai,Mobile,9,Power User
+U0101,2025-04-21,Bangalore,Mobile,8,Engaged
+U0102,2025-05-01,Chennai,Mobile,6,Engaged
+U0103,2025-03-18,Mumbai,Desktop,8,Engaged
+U0104,2025-02-23,Chennai,Mobile,9,Power User
+U0105,2025-02-10,Delhi,Mobile,9,Power User
+U0106,2025-04-02,Delhi,Mobile,7,Engaged
+U0107,2025-02-20,Bangalore,Desktop,8,Engaged
+U0108,2025-02-08,Hyderabad,Mobile,8,Engaged
+U0109,2025-04-07,Mumbai,Mobile,7,Engaged
+U0110,2025-03-21,Chennai,Tablet,8,Engaged
+U0111,2025-01-10,Chennai,Mobile,9,Power User
+U0112,2025-02-03,Bangalore,Desktop,8,Engaged
+U0113,2025-04-23,Mumbai,Desktop,6,Engaged
+U0114,2025-02-17,Delhi,Mobile,6,Engaged
+U0115,2025-04-17,Chennai,Desktop,7,Engaged
+U0116,2025-03-20,Chennai,Mobile,6,Engaged
+U0117,2025-04-15,Chennai,Mobile,4,Engaged
+U0118,2025-03-26,Mumbai,Desktop,11,Power User
+U0119,2025-01-18,Delhi,Mobile,4,Engaged
+U0120,2025-01-14,Chennai,Mobile,11,Power User
+U0121,2025-02-06,Chennai,Mobile,10,Power User
+U0122,2025-02-13,Bangalore,Desktop,5,Engaged
+U0123,2025-04-20,Delhi,Mobile,5,Engaged
+U0124,2025-02-02,Mumbai,Mobile,6,Engaged
+U0125,2025-02-24,Delhi,Mobile,7,Engaged
+U0126,2025-02-12,Bangalore,Desktop,3,Engaged
+U0127,2025-02-03,Bangalore,Desktop,7,Engaged
+U0128,2025-03-12,Hyderabad,Mobile,6,Engaged
+U0129,2025-01-15,Mumbai,Desktop,7,Engaged
+U0130,2025-03-30,Bangalore,Mobile,12,Power User
+U0131,2025-04-17,Delhi,Mobile,7,Engaged
+U0132,2025-01-19,Hyderabad,Mobile,16,Power User
+U0133,2025-02-09,Delhi,Desktop,9,Power User
+U0134,2025-04-12,Mumbai,Desktop,15,Power User
+U0135,2025-01-27,Bangalore,Desktop,10,Power User
+U0136,2025-02-15,Chennai,Desktop,5,Engaged
+U0137,2025-02-22,Chennai,Desktop,6,Engaged
+U0138,2025-04-29,Bangalore,Desktop,6,Engaged
+U0139,2025-04-13,Bangalore,Desktop,4,Engaged
+U0140,2025-01-04,Bangalore,Desktop,4,Engaged
+U0141,2025-02-12,Hyderabad,Desktop,9,Power User
+U0142,2025-04-21,Bangalore,Mobile,8,Engaged
+U0143,2025-04-11,Mumbai,Mobile,8,Engaged
+U0144,2025-01-05,Hyderabad,Mobile,5,Engaged
+U0145,2025-04-15,Hyderabad,Mobile,11,Power User
+U0146,2025-04-16,Bangalore,Mobile,10,Power User
+U0147,2025-03-26,Bangalore,Mobile,6,Engaged
+U0148,2025-02-05,Mumbai,Tablet,7,Engaged
+U0149,2025-02-05,Delhi,Desktop,9,Power User
+U0150,2025-02-21,Chennai,Mobile,5,Engaged
+U0151,2025-01-04,Mumbai,Desktop,7,Engaged
+U0152,2025-02-03,Bangalore,Mobile,8,Engaged
+U0153,2025-02-03,Mumbai,Mobile,10,Power User
+U0154,2025-02-25,Delhi,Desktop,5,Engaged
+U0155,2025-02-10,Hyderabad,Desktop,13,Power User
+U0156,2025-03-07,Mumbai,Mobile,9,Power User
+U0157,2025-03-15,Bangalore,Mobile,7,Engaged
+U0158,2025-04-01,Hyderabad,Mobile,6,Engaged
+U0159,2025-04-29,Chennai,Desktop,6,Engaged
+U0160,2025-05-01,Bangalore,Mobile,2,New
+U0161,2025-01-09,Delhi,Desktop,8,Engaged
+U0162,2025-03-26,Mumbai,Desktop,8,Engaged
+U0163,2025-02-08,Chennai,Mobile,11,Power User
+U0164,2025-02-22,Delhi,Mobile,5,Engaged
+U0165,2025-02-07,Chennai,Mobile,1,New
+U0166,2025-02-23,Hyderabad,Desktop,8,Engaged
+U0167,2025-04-26,Bangalore,Desktop,6,Engaged
+U0168,2025-02-08,Hyderabad,Mobile,6,Engaged
+U0169,2025-01-01,Delhi,Mobile,4,Engaged
+U0170,2025-02-25,Chennai,Desktop,4,Engaged
+U0171,2025-02-11,Hyderabad,Mobile,8,Engaged
+U0172,2025-03-28,Bangalore,Mobile,6,Engaged
+U0173,2025-04-12,Bangalore,Desktop,9,Power User
+U0174,2025-02-06,Chennai,Desktop,8,Engaged
+U0175,2025-03-21,Delhi,Mobile,6,Engaged
+U0176,2025-04-07,Bangalore,Desktop,14,Power User
+U0177,2025-01-29,Bangalore,Mobile,7,Engaged
+U0178,2025-01-06,Bangalore,Tablet,5,Engaged
+U0179,2025-03-20,Mumbai,Mobile,9,Power User
+U0180,2025-04-24,Chennai,Mobile,5,Engaged
+U0181,2025-03-31,Hyderabad,Mobile,7,Engaged
+U0182,2025-02-01,Bangalore,Desktop,9,Power User
+U0183,2025-01-01,Mumbai,Desktop,7,Engaged
+U0184,2025-01-29,Bangalore,Desktop,4,Engaged
+U0185,2025-03-31,Chennai,Mobile,8,Engaged
+U0186,2025-03-13,Bangalore,Desktop,9,Power User
+U0187,2025-01-16,Hyderabad,Mobile,6,Engaged
+U0188,2025-03-01,Chennai,Tablet,6,Engaged
+U0189,2025-03-18,Delhi,Tablet,8,Engaged
+U0190,2025-04-25,Hyderabad,Desktop,6,Engaged
+U0191,2025-04-03,Chennai,Mobile,3,Engaged
+U0192,2025-04-27,Chennai,Mobile,10,Power User
+U0193,2025-01-21,Hyderabad,Mobile,6,Engaged
+U0194,2025-04-07,Bangalore,Desktop,16,Power User
+U0195,2025-02-05,Chennai,Mobile,6,Engaged
+U0196,2025-01-31,Delhi,Mobile,3,Engaged
+U0197,2025-04-02,Delhi,Mobile,4,Engaged
+U0198,2025-02-12,Delhi,Desktop,4,Engaged
+U0199,2025-01-11,Bangalore,Mobile,8,Engaged
+U0200,2025-02-19,Bangalore,Desktop,13,Power User
+U0201,2025-01-09,Hyderabad,Mobile,11,Power User
+U0202,2025-03-11,Hyderabad,Mobile,4,Engaged
+U0203,2025-01-27,Hyderabad,Mobile,3,Engaged
+U0204,2025-04-09,Chennai,Desktop,5,Engaged
+U0205,2025-01-03,Chennai,Mobile,11,Power User
+U0206,2025-01-01,Delhi,Mobile,4,Engaged
+U0207,2025-02-19,Hyderabad,Mobile,4,Engaged
+U0208,2025-04-05,Chennai,Desktop,3,Engaged
+U0209,2025-04-25,Bangalore,Mobile,5,Engaged
+U0210,2025-02-04,Hyderabad,Mobile,8,Engaged
+U0211,2025-02-19,Delhi,Desktop,10,Power User
+U0212,2025-04-13,Hyderabad,Desktop,6,Engaged
+U0213,2025-04-18,Hyderabad,Desktop,6,Engaged
+U0214,2025-03-21,Chennai,Mobile,13,Power User
+U0215,2025-02-20,Chennai,Mobile,2,New
+U0216,2025-01-04,Mumbai,Desktop,7,Engaged
+U0217,2025-01-18,Hyderabad,Mobile,11,Power User
+U0218,2025-02-03,Hyderabad,Mobile,5,Engaged
+U0219,2025-02-28,Delhi,Mobile,6,Engaged
+U0220,2025-04-23,Hyderabad,Mobile,8,Engaged
+U0221,2025-04-17,Hyderabad,Mobile,11,Power User
+U0222,2025-01-11,Hyderabad,Mobile,5,Engaged
+U0223,2025-03-11,Mumbai,Tablet,7,Engaged
+U0224,2025-02-14,Bangalore,Desktop,3,Engaged
+U0225,2025-04-10,Mumbai,Desktop,9,Power User
+U0226,2025-02-01,Bangalore,Desktop,10,Power User
+U0227,2025-03-21,Bangalore,Mobile,7,Engaged
+U0228,2025-03-02,Mumbai,Mobile,9,Power User
+U0229,2025-01-28,Hyderabad,Desktop,6,Engaged
+U0230,2025-04-09,Delhi,Mobile,13,Power User
+U0231,2025-03-19,Mumbai,Desktop,8,Engaged
+U0232,2025-01-21,Delhi,Mobile,11,Power User
+U0233,2025-01-04,Delhi,Mobile,8,Engaged
+U0234,2025-04-27,Hyderabad,Mobile,7,Engaged
+U0235,2025-04-02,Bangalore,Mobile,2,New
+U0236,2025-03-30,Bangalore,Mobile,9,Power User
+U0237,2025-04-09,Delhi,Desktop,3,Engaged
+U0238,2025-03-18,Mumbai,Desktop,6,Engaged
+U0239,2025-03-14,Mumbai,Mobile,8,Engaged
+U0240,2025-02-24,Delhi,Mobile,8,Engaged
+U0241,2025-03-24,Delhi,Mobile,8,Engaged
+U0242,2025-02-23,Hyderabad,Mobile,8,Engaged
+U0243,2025-02-16,Hyderabad,Desktop,8,Engaged
+U0244,2025-02-25,Bangalore,Desktop,7,Engaged
+U0245,2025-03-25,Delhi,Desktop,7,Engaged
+U0246,2025-04-28,Chennai,Desktop,8,Engaged
+U0247,2025-03-01,Hyderabad,Desktop,5,Engaged
+U0248,2025-03-17,Delhi,Mobile,6,Engaged
+U0249,2025-02-01,Mumbai,Mobile,8,Engaged
+U0250,2025-02-27,Bangalore,Desktop,10,Power User
+U0251,2025-03-14,Chennai,Desktop,4,Engaged
+U0252,2025-02-13,Mumbai,Mobile,8,Engaged
+U0253,2025-02-11,Bangalore,Mobile,8,Engaged
+U0254,2025-02-15,Delhi,Mobile,5,Engaged
+U0255,2025-04-23,Chennai,Desktop,10,Power User
+U0256,2025-02-05,Chennai,Mobile,6,Engaged
+U0257,2025-01-25,Mumbai,Mobile,12,Power User
+U0258,2025-02-22,Hyderabad,Mobile,9,Power User
+U0259,2025-01-31,Hyderabad,Desktop,10,Power User
+U0260,2025-03-04,Hyderabad,Desktop,13,Power User
+U0261,2025-01-12,Delhi,Mobile,8,Engaged
+U0262,2025-03-30,Bangalore,Mobile,7,Engaged
+U0263,2025-03-16,Delhi,Mobile,7,Engaged
+U0264,2025-03-09,Delhi,Mobile,6,Engaged
+U0265,2025-04-06,Chennai,Mobile,8,Engaged
+U0266,2025-03-31,Hyderabad,Mobile,6,Engaged
+U0267,2025-02-02,Bangalore,Mobile,5,Engaged
+U0268,2025-01-25,Delhi,Mobile,7,Engaged
+U0269,2025-03-10,Bangalore,Mobile,7,Engaged
+U0270,2025-04-05,Hyderabad,Mobile,5,Engaged
+U0271,2025-03-17,Chennai,Mobile,9,Power User
+U0272,2025-01-13,Bangalore,Mobile,10,Power User
+U0273,2025-02-16,Bangalore,Mobile,12,Power User
+U0274,2025-04-01,Chennai,Mobile,4,Engaged
+U0275,2025-01-06,Mumbai,Mobile,12,Power User
+U0276,2025-03-31,Bangalore,Desktop,9,Power User
+U0277,2025-04-07,Hyderabad,Mobile,6,Engaged
+U0278,2025-01-02,Chennai,Mobile,5,Engaged
+U0279,2025-03-03,Hyderabad,Mobile,11,Power User
+U0280,2025-01-07,Delhi,Desktop,3,Engaged
+U0281,2025-03-03,Mumbai,Desktop,4,Engaged
+U0282,2025-02-21,Hyderabad,Mobile,8,Engaged
+U0283,2025-03-22,Mumbai,Mobile,8,Engaged
+U0284,2025-04-14,Chennai,Desktop,3,Engaged
+U0285,2025-01-11,Bangalore,Mobile,10,Power User
+U0286,2025-04-08,Hyderabad,Desktop,8,Engaged
+U0287,2025-04-12,Chennai,Mobile,5,Engaged
+U0288,2025-03-08,Hyderabad,Mobile,10,Power User
+U0289,2025-02-26,Delhi,Desktop,5,Engaged
+U0290,2025-02-24,Delhi,Mobile,2,New
+U0291,2025-01-08,Chennai,Tablet,6,Engaged
+U0292,2025-01-13,Bangalore,Desktop,8,Engaged
+U0293,2025-02-03,Mumbai,Mobile,7,Engaged
+U0294,2025-01-23,Chennai,Mobile,8,Engaged
+U0295,2025-01-01,Hyderabad,Mobile,8,Engaged
+U0296,2025-03-18,Hyderabad,Mobile,10,Power User
+U0297,2025-01-30,Delhi,Desktop,11,Power User
+U0298,2025-03-31,Hyderabad,Mobile,7,Engaged
+U0299,2025-01-30,Delhi,Desktop,7,Engaged
+U0300,2025-03-22,Chennai,Desktop,8,Engaged
+U0301,2025-04-30,Bangalore,Mobile,5,Engaged
+U0302,2025-03-11,Bangalore,Desktop,6,Engaged
+U0303,2025-04-27,Delhi,Desktop,8,Engaged
+U0304,2025-01-10,Mumbai,Mobile,6,Engaged
+U0305,2025-02-09,Chennai,Desktop,4,Engaged
+U0306,2025-03-14,Delhi,Mobile,6,Engaged
+U0307,2025-03-01,Delhi,Desktop,5,Engaged
+U0308,2025-05-01,Delhi,Mobile,5,Engaged
+U0309,2025-03-05,Hyderabad,Mobile,12,Power User
+U0310,2025-01-06,Hyderabad,Desktop,10,Power User
+U0311,2025-03-19,Delhi,Mobile,6,Engaged
+U0312,2025-01-30,Chennai,Mobile,8,Engaged
+U0313,2025-01-03,Delhi,Mobile,6,Engaged
+U0314,2025-04-08,Bangalore,Mobile,7,Engaged
+U0315,2025-03-25,Hyderabad,Desktop,11,Power User
+U0316,2025-01-24,Chennai,Mobile,8,Engaged
+U0317,2025-04-15,Hyderabad,Tablet,4,Engaged
+U0318,2025-03-02,Delhi,Mobile,6,Engaged
+U0319,2025-02-11,Mumbai,Desktop,9,Power User
+U0320,2025-02-12,Hyderabad,Desktop,6,Engaged
+U0321,2025-02-06,Hyderabad,Desktop,9,Power User
+U0322,2025-03-12,Mumbai,Mobile,6,Engaged
+U0323,2025-02-10,Delhi,Mobile,5,Engaged
+U0324,2025-04-09,Hyderabad,Desktop,6,Engaged
+U0325,2025-04-16,Mumbai,Desktop,7,Engaged
+U0326,2025-03-11,Hyderabad,Mobile,7,Engaged
+U0327,2025-01-25,Chennai,Mobile,6,Engaged
+U0328,2025-04-07,Hyderabad,Desktop,12,Power User
+U0329,2025-04-08,Mumbai,Mobile,9,Power User
+U0330,2025-03-12,Bangalore,Desktop,8,Engaged
+U0331,2025-02-26,Hyderabad,Mobile,7,Engaged
+U0332,2025-03-22,Chennai,Desktop,9,Power User
+U0333,2025-04-01,Bangalore,Mobile,13,Power User
+U0334,2025-01-02,Chennai,Mobile,7,Engaged
+U0335,2025-01-29,Mumbai,Mobile,4,Engaged
+U0336,2025-01-16,Bangalore,Mobile,5,Engaged
+U0337,2025-04-02,Delhi,Mobile,11,Power User
+U0338,2025-02-04,Hyderabad,Desktop,4,Engaged
+U0339,2025-03-02,Bangalore,Mobile,8,Engaged
+U0340,2025-01-19,Hyderabad,Mobile,6,Engaged
+U0341,2025-03-18,Chennai,Desktop,8,Engaged
+U0342,2025-01-18,Mumbai,Mobile,8,Engaged
+U0343,2025-04-12,Hyderabad,Mobile,7,Engaged
+U0344,2025-04-11,Chennai,Mobile,9,Power User
+U0345,2025-01-01,Delhi,Desktop,5,Engaged
+U0346,2025-04-18,Chennai,Mobile,9,Power User
+U0347,2025-03-26,Hyderabad,Desktop,6,Engaged
+U0348,2025-02-27,Chennai,Mobile,6,Engaged
+U0349,2025-02-12,Chennai,Desktop,6,Engaged
+U0350,2025-02-18,Hyderabad,Desktop,8,Engaged
+U0351,2025-04-22,Bangalore,Tablet,3,Engaged
+U0352,2025-01-31,Chennai,Mobile,12,Power User
+U0353,2025-04-20,Hyderabad,Mobile,5,Engaged
+U0354,2025-04-06,Hyderabad,Desktop,9,Power User
+U0355,2025-04-14,Hyderabad,Mobile,8,Engaged
+U0356,2025-03-26,Bangalore,Mobile,3,Engaged
+U0357,2025-01-05,Bangalore,Mobile,7,Engaged
+U0358,2025-03-17,Delhi,Desktop,7,Engaged
+U0359,2025-04-22,Hyderabad,Mobile,9,Power User
+U0360,2025-04-27,Hyderabad,Mobile,11,Power User
+U0361,2025-01-19,Hyderabad,Desktop,13,Power User
+U0362,2025-01-20,Mumbai,Mobile,4,Engaged
+U0363,2025-02-03,Delhi,Desktop,8,Engaged
+U0364,2025-02-20,Mumbai,Desktop,4,Engaged
+U0365,2025-04-20,Chennai,Mobile,6,Engaged
+U0366,2025-02-10,Hyderabad,Desktop,5,Engaged
+U0367,2025-01-05,Chennai,Mobile,11,Power User
+U0368,2025-03-22,Delhi,Tablet,5,Engaged
+U0369,2025-04-06,Mumbai,Mobile,4,Engaged
+U0370,2025-01-13,Mumbai,Mobile,8,Engaged
+U0371,2025-03-30,Delhi,Desktop,6,Engaged
+U0372,2025-01-06,Delhi,Desktop,6,Engaged
+U0373,2025-02-07,Delhi,Mobile,6,Engaged
+U0374,2025-01-19,Bangalore,Mobile,3,Engaged
+U0375,2025-03-14,Bangalore,Mobile,9,Power User
+U0376,2025-01-11,Chennai,Desktop,9,Power User
+U0377,2025-03-21,Bangalore,Mobile,4,Engaged
+U0378,2025-03-16,Bangalore,Mobile,10,Power User
+U0379,2025-03-23,Delhi,Mobile,8,Engaged
+U0380,2025-03-27,Mumbai,Desktop,11,Power User
+U0381,2025-03-01,Delhi,Desktop,6,Engaged
+U0382,2025-01-21,Mumbai,Mobile,5,Engaged
+U0383,2025-02-14,Chennai,Mobile,6,Engaged
+U0384,2025-02-24,Delhi,Mobile,8,Engaged
+U0385,2025-02-08,Bangalore,Tablet,8,Engaged
+U0386,2025-04-20,Hyderabad,Mobile,7,Engaged
+U0387,2025-02-18,Chennai,Mobile,6,Engaged
+U0388,2025-02-07,Delhi,Mobile,7,Engaged
+U0389,2025-04-17,Hyderabad,Mobile,9,Power User
+U0390,2025-03-14,Mumbai,Desktop,9,Power User
+U0391,2025-04-06,Hyderabad,Desktop,14,Power User
+U0392,2025-04-26,Delhi,Desktop,8,Engaged
+U0393,2025-01-30,Chennai,Desktop,3,Engaged
+U0394,2025-01-29,Bangalore,Desktop,11,Power User
+U0395,2025-03-28,Bangalore,Desktop,10,Power User
+U0396,2025-04-26,Mumbai,Mobile,5,Engaged
+U0397,2025-02-26,Mumbai,Mobile,11,Power User
+U0398,2025-04-04,Bangalore,Mobile,3,Engaged
+U0399,2025-02-07,Delhi,Desktop,11,Power User
+U0400,2025-01-23,Bangalore,Mobile,12,Power User
+U0401,2025-03-11,Delhi,Mobile,7,Engaged
+U0402,2025-04-27,Delhi,Desktop,14,Power User
+U0403,2025-02-02,Hyderabad,Tablet,6,Engaged
+U0404,2025-02-07,Delhi,Desktop,6,Engaged
+U0405,2025-03-01,Mumbai,Mobile,7,Engaged
+U0406,2025-01-29,Hyderabad,Tablet,5,Engaged
+U0407,2025-04-13,Chennai,Mobile,9,Power User
+U0408,2025-04-12,Hyderabad,Mobile,6,Engaged
+U0409,2025-03-10,Mumbai,Mobile,5,Engaged
+U0410,2025-03-28,Delhi,Mobile,4,Engaged
+U0411,2025-04-16,Delhi,Mobile,4,Engaged
+U0412,2025-01-30,Hyderabad,Mobile,2,New
+U0413,2025-04-24,Chennai,Mobile,4,Engaged
+U0414,2025-03-20,Bangalore,Desktop,10,Power User
+U0415,2025-03-23,Hyderabad,Desktop,8,Engaged
+U0416,2025-02-08,Hyderabad,Mobile,9,Power User
+U0417,2025-01-06,Mumbai,Mobile,5,Engaged
+U0418,2025-03-05,Mumbai,Mobile,5,Engaged
+U0419,2025-04-24,Chennai,Mobile,8,Engaged
+U0420,2025-02-28,Delhi,Desktop,4,Engaged
+U0421,2025-04-06,Chennai,Mobile,7,Engaged
+U0423,2025-03-25,Mumbai,Desktop,8,Engaged
+U0424,2025-03-20,Hyderabad,Desktop,10,Power User
+U0425,2025-02-05,Mumbai,Desktop,5,Engaged
+U0426,2025-01-28,Hyderabad,Mobile,11,Power User
+U0427,2025-01-31,Delhi,Mobile,5,Engaged
+U0428,2025-03-29,Delhi,Mobile,7,Engaged
+U0429,2025-03-24,Delhi,Mobile,8,Engaged
+U0430,2025-02-05,Bangalore,Tablet,6,Engaged
+U0431,2025-04-19,Hyderabad,Mobile,6,Engaged
+U0432,2025-01-28,Chennai,Tablet,5,Engaged
+U0433,2025-01-07,Delhi,Mobile,8,Engaged
+U0434,2025-01-17,Chennai,Mobile,7,Engaged
+U0435,2025-04-17,Chennai,Mobile,5,Engaged
+U0436,2025-01-28,Bangalore,Mobile,5,Engaged
+U0437,2025-01-19,Chennai,Mobile,9,Power User
+U0438,2025-04-20,Bangalore,Tablet,8,Engaged
+U0439,2025-03-11,Delhi,Desktop,11,Power User
+U0440,2025-01-15,Mumbai,Mobile,10,Power User
+U0441,2025-02-15,Bangalore,Mobile,2,New
+U0442,2025-01-03,Bangalore,Mobile,7,Engaged
+U0443,2025-01-17,Hyderabad,Mobile,4,Engaged
+U0444,2025-04-06,Mumbai,Mobile,3,Engaged
+U0445,2025-04-10,Delhi,Mobile,6,Engaged
+U0446,2025-01-14,Hyderabad,Mobile,11,Power User
+U0447,2025-03-20,Mumbai,Desktop,8,Engaged
+U0448,2025-04-27,Chennai,Mobile,5,Engaged
+U0449,2025-03-24,Mumbai,Mobile,8,Engaged
+U0450,2025-03-03,Hyderabad,Mobile,13,Power User
+U0451,2025-01-14,Hyderabad,Desktop,4,Engaged
+U0452,2025-02-26,Mumbai,Desktop,8,Engaged
+U0453,2025-02-11,Chennai,Mobile,6,Engaged
+U0454,2025-01-17,Delhi,Desktop,7,Engaged
+U0455,2025-03-16,Chennai,Desktop,8,Engaged
+U0456,2025-02-18,Chennai,Mobile,8,Engaged
+U0457,2025-02-28,Chennai,Desktop,8,Engaged
+U0458,2025-01-13,Mumbai,Desktop,6,Engaged
+U0459,2025-03-25,Chennai,Desktop,8,Engaged
+U0460,2025-01-28,Hyderabad,Mobile,3,Engaged
+U0461,2025-01-30,Hyderabad,Mobile,10,Power User
+U0462,2025-02-28,Hyderabad,Mobile,7,Engaged
+U0463,2025-01-13,Delhi,Mobile,7,Engaged
+U0464,2025-03-27,Delhi,Mobile,8,Engaged
+U0465,2025-01-20,Hyderabad,Mobile,10,Power User
+U0466,2025-04-17,Mumbai,Mobile,12,Power User
+U0467,2025-01-13,Delhi,Desktop,6,Engaged
+U0468,2025-03-13,Mumbai,Mobile,14,Power User
+U0469,2025-03-13,Chennai,Mobile,5,Engaged
+U0470,2025-01-16,Hyderabad,Mobile,5,Engaged
+U0471,2025-03-27,Hyderabad,Desktop,7,Engaged
+U0472,2025-04-03,Mumbai,Tablet,8,Engaged
+U0473,2025-03-18,Delhi,Mobile,5,Engaged
+U0474,2025-03-15,Chennai,Mobile,2,New
+U0475,2025-03-26,Hyderabad,Mobile,9,Power User
+U0476,2025-01-14,Delhi,Desktop,13,Power User
+U0477,2025-02-17,Mumbai,Desktop,7,Engaged
+U0478,2025-03-15,Bangalore,Desktop,8,Engaged
+U0479,2025-04-19,Chennai,Tablet,7,Engaged
+U0480,2025-04-15,Chennai,Desktop,6,Engaged
+U0481,2025-03-24,Chennai,Mobile,7,Engaged
+U0482,2025-04-29,Delhi,Mobile,11,Power User
+U0483,2025-02-04,Delhi,Desktop,9,Power User
+U0484,2025-02-14,Mumbai,Mobile,10,Power User
+U0485,2025-01-19,Chennai,Desktop,7,Engaged
+U0486,2025-01-09,Bangalore,Desktop,2,New
+U0487,2025-01-04,Mumbai,Desktop,9,Power User
+U0488,2025-01-28,Hyderabad,Mobile,7,Engaged
+U0489,2025-02-13,Bangalore,Mobile,14,Power User
+U0490,2025-04-03,Delhi,Desktop,8,Engaged
+U0491,2025-03-14,Chennai,Mobile,11,Power User
+U0492,2025-01-07,Bangalore,Mobile,10,Power User
+U0493,2025-03-21,Mumbai,Desktop,5,Engaged
+U0494,2025-02-04,Hyderabad,Desktop,5,Engaged
+U0495,2025-03-04,Chennai,Mobile,6,Engaged
+U0496,2025-02-04,Bangalore,Desktop,15,Power User
+U0497,2025-01-15,Delhi,Mobile,11,Power User
+U0498,2025-02-06,Chennai,Mobile,4,Engaged
+U0499,2025-03-27,Delhi,Mobile,8,Engaged
+U0500,2025-02-20,Chennai,Mobile,4,Engaged
+U0501,2025-01-27,Delhi,Desktop,7,Engaged
+U0502,2025-04-09,Bangalore,Desktop,4,Engaged
+U0503,2025-02-07,Delhi,Mobile,6,Engaged
+U0504,2025-03-05,Hyderabad,Mobile,10,Power User
+U0505,2025-02-18,Chennai,Desktop,7,Engaged
+U0506,2025-03-06,Chennai,Desktop,7,Engaged
+U0507,2025-04-14,Delhi,Mobile,9,Power User
+U0508,2025-04-21,Mumbai,Mobile,1,New
+U0509,2025-02-28,Mumbai,Desktop,5,Engaged
+U0510,2025-03-15,Hyderabad,Mobile,6,Engaged
+U0511,2025-04-01,Hyderabad,Mobile,9,Power User
+U0512,2025-02-21,Mumbai,Tablet,3,Engaged
+U0513,2025-01-22,Chennai,Mobile,13,Power User
+U0514,2025-03-30,Delhi,Mobile,4,Engaged
+U0515,2025-04-19,Mumbai,Mobile,7,Engaged
+U0516,2025-03-17,Hyderabad,Mobile,9,Power User
+U0517,2025-02-20,Delhi,Desktop,9,Power User
+U0518,2025-01-29,Delhi,Desktop,6,Engaged
+U0519,2025-01-10,Chennai,Desktop,7,Engaged
+U0520,2025-03-09,Chennai,Mobile,11,Power User
+U0521,2025-04-10,Delhi,Mobile,7,Engaged
+U0522,2025-04-15,Bangalore,Mobile,10,Power User
+U0523,2025-01-19,Delhi,Mobile,6,Engaged
+U0524,2025-03-19,Bangalore,Desktop,9,Power User
+U0525,2025-03-25,Mumbai,Mobile,6,Engaged
+U0526,2025-04-09,Hyderabad,Mobile,9,Power User
+U0527,2025-03-14,Chennai,Mobile,8,Engaged
+U0528,2025-04-29,Chennai,Desktop,8,Engaged
+U0529,2025-03-21,Delhi,Desktop,5,Engaged
+U0530,2025-03-22,Delhi,Mobile,6,Engaged
+U0531,2025-01-09,Hyderabad,Mobile,7,Engaged
+U0532,2025-02-08,Delhi,Mobile,11,Power User
+U0533,2025-02-15,Chennai,Mobile,6,Engaged
+U0534,2025-03-01,Hyderabad,Mobile,9,Power User
+U0535,2025-02-17,Delhi,Mobile,3,Engaged
+U0536,2025-04-21,Mumbai,Desktop,7,Engaged
+U0537,2025-03-06,Hyderabad,Mobile,7,Engaged
+U0538,2025-03-12,Mumbai,Mobile,7,Engaged
+U0539,2025-04-14,Chennai,Desktop,7,Engaged
+U0540,2025-02-11,Chennai,Mobile,6,Engaged
+U0541,2025-01-20,Mumbai,Mobile,5,Engaged
+U0542,2025-04-14,Delhi,Tablet,7,Engaged
+U0543,2025-01-11,Chennai,Desktop,8,Engaged
+U0544,2025-01-06,Bangalore,Desktop,9,Power User
+U0545,2025-02-26,Chennai,Mobile,6,Engaged
+U0546,2025-01-21,Delhi,Mobile,8,Engaged
+U0547,2025-02-06,Hyderabad,Mobile,2,New
+U0548,2025-02-13,Chennai,Mobile,5,Engaged
+U0549,2025-03-22,Delhi,Mobile,5,Engaged
+U0550,2025-01-13,Chennai,Desktop,8,Engaged
+U0551,2025-02-06,Delhi,Desktop,7,Engaged
+U0552,2025-03-26,Chennai,Desktop,8,Engaged
+U0553,2025-02-12,Mumbai,Mobile,4,Engaged
+U0554,2025-01-19,Delhi,Mobile,12,Power User
+U0555,2025-03-25,Hyderabad,Mobile,4,Engaged
+U0556,2025-04-01,Mumbai,Mobile,7,Engaged
+U0557,2025-02-18,Delhi,Desktop,13,Power User
+U0558,2025-03-27,Chennai,Mobile,4,Engaged
+U0559,2025-03-27,Hyderabad,Mobile,6,Engaged
+U0560,2025-01-03,Delhi,Mobile,6,Engaged
+U0561,2025-01-28,Delhi,Desktop,9,Power User
+U0562,2025-03-04,Bangalore,Mobile,8,Engaged
+U0563,2025-01-18,Bangalore,Mobile,6,Engaged
+U0564,2025-04-19,Mumbai,Mobile,7,Engaged
+U0565,2025-03-11,Chennai,Mobile,5,Engaged
+U0566,2025-02-13,Chennai,Mobile,9,Power User
+U0567,2025-02-18,Bangalore,Mobile,4,Engaged
+U0568,2025-04-17,Chennai,Desktop,5,Engaged
+U0569,2025-01-22,Hyderabad,Mobile,5,Engaged
+U0570,2025-02-16,Bangalore,Tablet,5,Engaged
+U0571,2025-03-20,Delhi,Desktop,8,Engaged
+U0572,2025-04-11,Hyderabad,Mobile,8,Engaged
+U0573,2025-01-31,Delhi,Tablet,10,Power User
+U0574,2025-04-11,Hyderabad,Desktop,5,Engaged
+U0575,2025-01-25,Delhi,Desktop,5,Engaged
+U0576,2025-03-15,Hyderabad,Mobile,8,Engaged
+U0577,2025-02-06,Hyderabad,Mobile,7,Engaged
+U0578,2025-02-23,Bangalore,Desktop,7,Engaged
+U0579,2025-04-13,Chennai,Mobile,6,Engaged
+U0580,2025-02-02,Mumbai,Desktop,8,Engaged
+U0581,2025-04-22,Delhi,Mobile,8,Engaged
+U0582,2025-01-14,Chennai,Desktop,7,Engaged
+U0583,2025-02-06,Mumbai,Desktop,5,Engaged
+U0584,2025-02-04,Hyderabad,Desktop,6,Engaged
+U0585,2025-01-19,Hyderabad,Mobile,6,Engaged
+U0586,2025-04-27,Bangalore,Desktop,8,Engaged
+U0587,2025-04-24,Delhi,Desktop,8,Engaged
+U0588,2025-02-23,Mumbai,Mobile,10,Power User
+U0589,2025-02-17,Bangalore,Mobile,6,Engaged
+U0590,2025-01-11,Delhi,Mobile,7,Engaged
+U0591,2025-02-10,Mumbai,Desktop,9,Power User
+U0592,2025-03-25,Delhi,Desktop,6,Engaged
+U0593,2025-01-18,Mumbai,Mobile,7,Engaged
+U0594,2025-04-17,Hyderabad,Desktop,7,Engaged
+U0595,2025-01-18,Hyderabad,Mobile,10,Power User
+U0596,2025-01-01,Mumbai,Mobile,6,Engaged
+U0597,2025-01-28,Bangalore,Mobile,6,Engaged
+U0598,2025-04-04,Chennai,Mobile,10,Power User
+U0599,2025-01-15,Delhi,Mobile,12,Power User
+U0600,2025-01-16,Mumbai,Mobile,10,Power User

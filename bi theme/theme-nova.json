@@ -1,0 +1,87 @@
+{
+  "name": "NovaTech SaaS Dark",
+  "dataColors": [
+    "#38BDF8",
+    "#6366F1",
+    "#22C55E",
+    "#F59E0B",
+    "#EF4444",
+    "#A78BFA"
+  ],
+  "background": "#0F172A",
+  "foreground": "#E2E8F0",
+  "tableAccent": "#38BDF8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#E2E8F0" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#CBD5F5" } },
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E293B" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#94A3B8" } }
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 28
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "color": { "solid": { "color": "#E2E8F0" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#1E293B" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": { "solid": { "color": "#334155" } }
+          }
+        ],
+        "columnHeaders": [
+          {
+            "fontColor": { "solid": { "color": "#E2E8F0" } },
+            "backColor": { "solid": { "color": "#020617" } }
+          }
+        ]
+      }
+    }
+  }
+}

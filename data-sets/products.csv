@@ -1,0 +1,3 @@
+product_id,product_name,product_type,segment,category,unit_price,cost_price
+P301,Dell Latitude 5440,Laptop,Mid,Electronics,85000,60000
+P302,Dell Latitude 7440,Laptop,Premium,Electronics,125000,90000
